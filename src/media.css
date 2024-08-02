@@ -1,0 +1,112 @@
+@media only screen and (max-width: 1698px) {
+    .container{
+        width: 100%;
+    }
+    .head{
+        height: 200px;
+    }
+    .head_text{
+        font-size: 60px;
+    }
+    .subhead_text{
+        font-size: 30px;
+    }
+    .right_one{
+        max-width: 733px;
+        height: 682px;
+    }
+    .image_of_right_one {
+        width: 623px;
+        height: 623px;
+    }
+}
+@media only screen and (max-width: 1665px) {
+    .green_block_test{
+        padding: 40px 85px 0 85px;
+        gap: 50px;
+    }
+    .right_one{
+        height: 642px;
+    }
+    .num{
+        font-size: 40px;
+    }
+    .number_block{
+        gap: 0;
+        justify-content: space-between;
+    }
+    .thecomment{
+        font-size: 20px;
+    }
+    .test_blocks{
+        flex-wrap: wrap;
+        gap: 30px;
+        height: auto;
+    }
+    .left_one{
+        padding-top: 90px;
+    }
+    .testimonial_main_block{
+        height: 600px;
+    }
+    .quotes{
+        width: 85px;
+    }
+    .working_block {
+        margin-top: 60px;
+    }
+    .main_block{
+        margin-top: 0;
+    }
+    .image_of_pb{
+        height: 400px;
+    }
+    .part_block{
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 1550px) {
+    .mission_block{
+        gap: 82px;
+    }
+    .left_one{
+        padding-top: 120px;
+    }
+    .project_content{
+        flex-wrap: wrap;
+    }
+    .head_text {
+        font-size: 45px;
+    }
+    .mission_head_text{
+        font-size: 35px;
+    }
+    .mission_subhead_text{
+        font-size: 25px;
+    }
+    .right_one{
+        width: auto;
+    }
+    .head {
+        height: 150px;
+    }
+    .main_block {
+        height: auto;
+    }
+    .subhead_text {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 1399px) {
+    .project_content{
+        margin: 0 auto;
+        gap: 100px;
+    }
+    .noRadius {
+        border-top-left-radius: 0%;
+        border-top-right-radius: 0%;
+    }
+    .turn {
+        flex-direction: column !important;
+    }
+}
